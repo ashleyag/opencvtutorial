@@ -1,0 +1,4 @@
+Mat is basically a class with two data parts: 
+the matrix header :contains the size and address of the image as well as a pointer to the matrix containing the pixel values  
+The matrix header size is constant,
+The size of the matrix itself may vary from image to image and usually is larger by orders of magnitude.
