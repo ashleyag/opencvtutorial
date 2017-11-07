@@ -1,0 +1,11 @@
+Python script
+Gaussian noise - gnoise.py
+Salt and pepper noise - spnoise.py
+
+Results in gnoise_fivekernel
+           gnoise_threkernel
+           gnoise_sevenkernel
+           gnoise_varying_mean_sigma
+           spnoise
+
+Which kernel 'filtered' out the noise better?
