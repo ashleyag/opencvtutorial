@@ -1,0 +1,12 @@
+Python script in threshold.py
+Results in threshresults
+
+Disadvantages of Binary threshold:
+It uses only one thrshold level and compares all the pixels of the image as being either greater than or less than that
+pixel value and then decides what value the pixel must take , 0 or 1,thus; a lot of information from the image could get
+lost in such thresholding.
+
+
+Why is adaptive Threshold better?
+Adaptive thresholding is much better than binary thresholding because the value of each pixel is decided based on the 
+neighbouring pixels and not the entire image as a whole. This ensures that the details of the image are preserved.
